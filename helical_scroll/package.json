@@ -1,0 +1,19 @@
+{
+    "name": "helical-scroll",
+    "version": "1.0.0",
+    "description": "Helical scrolling cards animation",
+    "main": "src/main.js",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "start": "vite preview"
+    },
+    "dependencies": {
+      "three": "^0.153.0",
+      "gsap": "^3.12.2"
+    },
+    "devDependencies": {
+      "vite": "^4.5.0"
+    }
+  }
+  
